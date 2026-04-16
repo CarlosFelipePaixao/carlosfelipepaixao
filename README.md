@@ -1,8 +1,38 @@
 # 👨🏻‍💻 Carlos Paixão
 
-**`Desenvolvedor Python`**
+**`Desenvolvedor Backend | Python | Java | APIs REST | Microservices`**
 
-Me chamo Carlos Felipe da Paixão, tenho 29 anos e sou natural do Paraná. Trabalho com Python, focando em automação e desenvolvimento de software. Sou fascinado por tecnologia e sempre busco aprimorar minhas habilidades. Além disso, sou PCD devido à perda auditiva, o que nunca me impediu de seguir minha paixão pela programação e inovação.
+Desenvolvedor Backend com foco em Python, Java, APIs REST e microserviços.
+
+Atualmente trabalho com desenvolvimento backend utilizando Python, Java, Spring Boot, PostgreSQL, Git e Docker.
+
+Tenho experiência com automações em Python, autenticação JWT, OAuth2, banco de dados SQL, Docker e documentação de APIs com Swagger/OpenAPI.
+
+Também tenho interesse em bioinformática, análise de dados e tecnologia aplicada à saúde.
+
+## Tecnologias
+
+* Python
+* Java
+* Spring Boot
+* FastAPI
+* Flask
+* PostgreSQL
+* SQL
+* Docker
+* Git
+* APIs REST
+* JWT
+* OAuth2
+
+## Projetos em destaque
+
+* API REST com Python
+* API REST com Java
+* Sistema com JWT
+* Projeto com Docker
+* Projeto de bioinformática
+
 
 <p align="left">
     <a href="https://github.com/CarlosFelipePaixao?tab=repositories&sort=stargazers">

@@ -72,35 +72,35 @@ Também tenho interesse em bioinformática, análise de dados e tecnologia aplic
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Spring Boot" 
+    title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="FastAPI"
+    title="FastAPI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
 />
 <img 
     align="left" 
-    alt="Postgresql" 
-    title="Postgresql"
+    alt="Flask" 
+    title="Flask"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"        
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"       
 />
 <img 
     align="left" 
@@ -110,22 +110,7 @@ Também tenho interesse em bioinformática, análise de dados e tecnologia aplic
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Ruby" 
-    title="Ruby"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+
 
 <br/>
 <br/>
